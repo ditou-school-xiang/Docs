@@ -29,5 +29,5 @@ jobs:
           github_token: ${{ secrets.GITHUB_TOKEN }}
           publish_dir: ./public
           publish_branch: gh-pages
-          destination_repo: ditou-school-xiang/ditou-school-xiang.github.io
+          destination_repository: ditou-school-xiang/ditou-school-xiang.github.io
          
